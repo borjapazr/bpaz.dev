@@ -1,7 +1,28 @@
 {
   "name": "bpaz.dev",
   "version": "0.1.0",
-  "private": true,
+  "description": "@borjapazr's personal website",
+  "author": {
+    "name": "Borja Paz Rodríguez",
+    "email": "borjapazr@gmail.com",
+    "url": "https://bpaz.dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bpaz.dev",
+    "portfolio",
+    "blog",
+    "resume",
+    "personal",
+    "website",
+    "personal-website",
+    "personal-site",
+    "personal-portfolio",
+    "personal-blog",
+    "personal-resume",
+    "personal-cv"
+  ],
+  "repository": "https://github.com/borjapazr/bpaz.dev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,6 +35,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@next/bundle-analyzer": "^12.2.3",
     "@types/node": "18.6.3",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
