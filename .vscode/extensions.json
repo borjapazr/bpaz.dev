@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss",
+    "Orta.vscode-jest",
+    "eamodio.gitlens",
+    "mkaufman.HTMLHint",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "vsls-contrib.codetour",
+    "firsttris.vscode-jest-runner",
+    "Orta.vscode-jest"
+  ]
+}
